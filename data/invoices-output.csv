@@ -1,0 +1,8 @@
+invoice_id,vendor,amount,status,approver
+INV-2002,XYZ Corp,142500.0,PENDING,Manager
+INV-2003,Nova Inc,650000.0,PENDING,Finance Controller
+INV-2004,,120000.0,PENDING,Manager
+INV-2007,Falcon Tech,300000.0,APPROVED,Manager
+INV-2010,Jupiter Steel,500000.0,PENDING,Manager
+INV-2012,Kaveri Chemicals,975000.0,PENDING,Finance Controller
+INV-2014,Global Office Mart,210000.0,PENDING,Manager
