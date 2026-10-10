@@ -1,0 +1,8 @@
+[
+    {
+        "invoice_id": "string",
+        "vendor": "string",
+        "amount": 0.0,
+        "status": "string"
+    }
+]
